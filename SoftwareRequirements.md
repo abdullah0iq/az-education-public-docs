@@ -45,17 +45,9 @@ The following vital processes and functionalities are required and implemented:
 * **VPS Upgrades:** Hosting plan can be scaled to accommodate increased user load.
 * **Modular Design:** System components designed for easy scalability.
 
-## 4. Use Case Diagrams
 
-These diagrams illustrate the typical interactions between users and the AZ Education system.
 
-### Use Case 1: Student Registration and Authentication
-![Use Case: Student Registration and Authentication](diagrams/use_case_diagram.jpg)
-
-### Use Case 2: Course Subscription Request
-_Further use case diagrams would be embedded here if separate files exist or if the main use case diagram covers more specific scenarios clearly._
-
-## 5. Future Plans (Version 2 Enhancements)
+## 4. Future Plans (Version 2 Enhancements)
 
 * **Automated Online Payments:** Integrate a payment gateway.
 * **Web/Desktop Support:** Develop web and desktop applications.
