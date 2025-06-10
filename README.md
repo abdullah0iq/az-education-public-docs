@@ -26,6 +26,6 @@ AZ Education is a graduation project developed by Abdullah Zaid Hashim AlMashhad
 
 ## Contact & Connect:
 
-For any inquiries or to connect, please visit my [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/) or my [Personal Website/Portfolio](https://yourwebsite.com).
+For any inquiries or to connect, please visit my [LinkedIn Profile](https://www.linkedin.com/in/abdullah-almashhadani/), my [Whatsapp](https://wa.me/9647709151917) or [Telegram](https://t.me/abdullah0iq)
 
 ---
