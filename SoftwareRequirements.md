@@ -50,7 +50,7 @@ The following vital processes and functionalities are required and implemented:
 These diagrams illustrate the typical interactions between users and the AZ Education system.
 
 ### Use Case 1: Student Registration and Authentication
-![Use Case: Student Registration and Authentication](diagrams/use_case_diagram.png)
+![Use Case: Student Registration and Authentication](diagrams/use_case_diagram.jpg)
 
 ### Use Case 2: Course Subscription Request
 _Further use case diagrams would be embedded here if separate files exist or if the main use case diagram covers more specific scenarios clearly._
